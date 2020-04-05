@@ -1,5 +1,7 @@
-Git Bash
-Git GUI
-Tic Tac Toe
-First Commit
-Tic Tic 
+index.html
+sketch.js
+style.css
+whitehatjr
+my git project
+c26 project
+tic tac toe
